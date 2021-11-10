@@ -1,5 +1,5 @@
 # GPU Stock Checker
-<img src="https://github.com/Kfollen93/GPU-Stock-Checker/blob/main/Image.png" width="800" height="660" alt="GPU Image"></img> <br>
+<img src="https://github.com/Kfollen93/GPU-Stock-Checker/blob/main/Image.png" width="720" height="580" alt="GPU Image"></img> <br>
 A Python script that uses Selenium and Discord to automatically refresh a webpage every few minutues and checks for the stock of items. When the item is in stock, a message will be sent to a Discord channel with a link to the item.
 ## Installation and Usage
 1. Ensure you have Google Chrome installed and verify the version.
