@@ -7,7 +7,7 @@ A Python script that uses Selenium and Discord to automatically refresh a webpag
 3. When the download is finished, extract the files, and set your driver variable equal to the path of the ChromeDriver.exe application.
     * As an example, mine is: `driver = webdriver.Chrome('D:\Chromedriver\chromedriver_win32\chromedriver.exe', options=op)`
     * You can then set the driver to `get()` any webpage that you would like it to load.
-4. If you would like to use Discord to send alerts, you would will need the following:
+4. If you would like to use Discord to send alerts, you will need the following:
     * A Discord server.
     * A Discord bot.
 
